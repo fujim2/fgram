@@ -1,4 +1,4 @@
 fgram
 =====
 
-function diagram
+The format for function diagram
