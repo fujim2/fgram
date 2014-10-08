@@ -1,0 +1,4 @@
+fgram
+=====
+
+function diagram
